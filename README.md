@@ -125,6 +125,7 @@ ros2 launch my_robot_bringup_2 my_robot_gazebo.launch.xml
 
 ![Gazebo Simulation](images/gazebo-simulation.png)
 ![RViz TF Tree](images/rviz-tf-tree.png)
-![Mobile Manipulator Overview](mobile-manipulator-overview.png)
+![Mobile Manipulator Overview](images/mobile-manipulator-overview.png)
+![Watch control demo](videos/mobile-manipulator-control.webm)
 
 ---
