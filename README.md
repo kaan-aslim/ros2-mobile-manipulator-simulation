@@ -123,9 +123,7 @@ ros2 launch my_robot_bringup_2 my_robot_gazebo.launch.xml
 
 ##  Media
 
-(Add here)
-
-* Gazebo simulation screenshots
+![Gazebo Simulation](images/gazebo-simulation.png)
 * RViz TF tree
 * Robot movement GIF/video
 
