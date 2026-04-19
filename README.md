@@ -116,7 +116,7 @@ colcon build
 source install/setup.bash
 
 # Launch simulation
-ros2 launch <your_package> <your_launch_file>.launch.py
+ros2 launch my_robot_bringup_2 my_robot_gazebo.launch.xml
 ```
 
 ---
