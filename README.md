@@ -35,7 +35,7 @@ The project covers the full ROS2 workflow:
 * TF2
 * ros_gz_bridge
 * YAML configuration
-* Python-based ROS2 launch system
+* XML-based ROS2 launch system
 
 ---
 
