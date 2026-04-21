@@ -48,7 +48,7 @@ The project covers the full ROS2 workflow:
 * Real-time control via:
 
   * `/cmd_vel` (mobile robot)
-  * `/joint_states` (manipulator joints)
+  * `/cmd_pos` (manipulator joints)
 * Custom Gazebo world and object integration
 * Camera sensor plugin integration
 * Unified launch file for full system startup
@@ -68,7 +68,7 @@ ros2 topic pub /cmd_vel geometry_msgs/msg/Twist ...
 * Manipulator joints:
 
 ```bash
-ros2 topic pub /joint_states sensor_msgs/msg/JointState ...
+ros2 topic pub -1 /cmd_pos std_msgs/msg Float64 ...
 ```
 
 ---
