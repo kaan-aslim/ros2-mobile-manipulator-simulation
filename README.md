@@ -134,5 +134,3 @@ ros2 launch my_robot_bringup_2 my_robot_gazebo.launch.xml
 
 ###  Control Demo
 ![Watch control demo](videos/mobile-manipulator-control.webm)
-
----
